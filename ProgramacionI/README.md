@@ -37,12 +37,6 @@ Para obtener una copia local del curso y acceder a los materiales, ejecuta el si
 ``` 
 git clone https://github.com/CarlosOC/Cursos.git
 ```
-### Detalles de la Estructura:
-
-1. **Contenido Detallado**: Resumen claro de cada tema cubierto en el curso.
-2. **Estructura del Repositorio**: Explicación sobre el contenido de cada subcarpeta.
-3. **Requisitos y Clonación**: Instrucciones para ejecutar el material del curso y cómo clonar el repositorio.
-4. **Consistencia**: Alineado en estilo con el `README.md` del curso de Programación II, facilitando la navegación y uso por parte de los estudiantes.
 
 ## Uso del Material
 Cada tema cuenta con su propio conjunto de ejemplos y ejercicios. Se recomienda que los estudiantes sigan los temas en el orden en que están presentados para asegurar una comprensión progresiva de los conceptos.
