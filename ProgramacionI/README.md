@@ -1,20 +1,51 @@
-# Repositorio de Ejercicios de Programación I en C
+# Programación I - UTN
 
-¡Bienvenido al repositorio de ejercicios de Programación I en lenguaje C de la UTN FRLR!
+Este repositorio contiene el material del curso **Programación I** dictado en la Universidad Tecnológica Nacional (UTN). El curso abarca los fundamentos de la programación en C y C++, proporcionando una base sólida para el desarrollo de habilidades en lógica de programación y estructuras básicas.
 
-## Descripción
+## Contenido
 
-Este repositorio contiene una colección de ejercicios diseñados para acompañar las clases prácticas de la materia de Programación I en la Universidad Tecnológica Nacional, Facultad Regional La Rioja. Estos ejercicios están destinados a ayudar a los estudiantes a desarrollar sus habilidades en el lenguaje de programación C, abordando conceptos fundamentales y avanzados.
+- **Introducción a la Programación**: Conceptos básicos de programación y el lenguaje C.
+- **Variables y Tipos de Datos**: Definición y uso de distintos tipos de datos en C.
+- **Estructuras de Control**: Uso de condicionales (`if`, `else`, `switch`) y estructuras repetitivas (`for`, `while`, `do-while`).
+- **Funciones**: Definición, declaración y uso de funciones en C.
+- **Arreglos y Matrices**: Manipulación de arreglos unidimensionales y multidimensionales.
+- **Punteros**: Introducción a punteros y su uso en la manipulación de datos.
+- **Estructuras**: Creación y uso de estructuras personalizadas.
+- **Archivos**: Lectura y escritura de archivos en C.
+- **Introducción a C++**: Conceptos básicos de C++ y programación orientada a objetos (POO).
 
 ## Estructura del Repositorio
 
-El repositorio está organizado en carpetas, en la carpeta `Clases` estan las presentaciones en formato PDF con los temas dictados en las diferentes clases dictadas y en la carpeta `Practicos` estan los trabajos practicos de la catedra y en la carpeta `Ejercicios` ejercicios realizados en lenguaje C
+Cada tema está organizado en subcarpetas que contienen:
 
-## Cómo Usar este Repositorio
+- **Presentaciones en PDF**: Material teórico.
+- **Ejemplos de Código**: Programas en C y C++ que ilustran los conceptos de cada tema.
+- **Ejercicios Propuestos**: Actividades para practicar y aplicar los conocimientos adquiridos.
 
-Puedes clonar este repositorio en tu máquina local utilizando el siguiente comando:
+## Requisitos
 
-git clone https://github.com/CarlosOC/ProgramacionI.git
+Para ejecutar los ejemplos y realizar los ejercicios, se recomienda contar con:
+
+- **Compilador C/C++**: GCC, Clang o similar.
+- **Editor de Texto o IDE**: Visual Studio Code, Qt Creator, o cualquier otro editor compatible con C/C++.
+- **Git**: [Descargar aquí](https://git-scm.com/downloads)
+
+## Cómo Clonar el Repositorio
+
+Para obtener una copia local del curso y acceder a los materiales, ejecuta el siguiente comando:
+
+``` 
+git clone https://github.com/CarlosOC/Cursos.git
+```
+### Detalles de la Estructura:
+
+1. **Contenido Detallado**: Resumen claro de cada tema cubierto en el curso.
+2. **Estructura del Repositorio**: Explicación sobre el contenido de cada subcarpeta.
+3. **Requisitos y Clonación**: Instrucciones para ejecutar el material del curso y cómo clonar el repositorio.
+4. **Consistencia**: Alineado en estilo con el `README.md` del curso de Programación II, facilitando la navegación y uso por parte de los estudiantes.
+
+## Uso del Material
+Cada tema cuenta con su propio conjunto de ejemplos y ejercicios. Se recomienda que los estudiantes sigan los temas en el orden en que están presentados para asegurar una comprensión progresiva de los conceptos.
 
 Una vez clonado, puedes explorar las diferentes carpetas y ejercicios. Te recomiendo comenzar por la carpeta `Clases` y avanzar progresivamente a medida que te sientas más cómodo con los conceptos.
 
