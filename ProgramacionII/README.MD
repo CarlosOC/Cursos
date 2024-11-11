@@ -4,7 +4,7 @@ Este repositorio contiene el material del curso **Programación II** dictado en 
 
 ## Contenido
 
-- [Clase 1: Introducción a C++ y Qt](./ProgramacionII/Clases/Clase%2001%20-%20Introduccion.pdf)
+- [Clase 1: Introducción a C++ y Qt](./Clases/Clase%2001%20-%20Introduccion.pdf)
 - [Clase 2: Memoria Dinámica y POO](./ProgramacionII/Clases/Clase%2002%20-%20HolaMundo%20-%20MemoriaDinamica.pdf)
 - [Clase 3: Herencia y Polimorfismo](./ProgramacionII/Clases/Clase%2003%20-%20POO%20-%20Clases%20-%20Herencia.pdf)
 - [Clase 4: POO - Clases](./ProgramacionII/Clases/Clase%2004%20-%20POO%20-%20Clases.pdf)
